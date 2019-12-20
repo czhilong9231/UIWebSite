@@ -1,0 +1,4 @@
+body{text-align:center;background-color:silver;}
+div{margin-top:100px;text-align:center;color:silver;}
+a:link,a:visited,a:active{line-height:39px;margin-bottom:13px;font-size:20px;text-decoration:none;color:black;}
+a:hover{font-size:35px;color:red;}
